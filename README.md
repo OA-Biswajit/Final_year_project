@@ -81,6 +81,3 @@ The main notebook includes a `Config` class with the following important fields:
 - Source code (GitHub): https://github.com/OA-Biswajit/Final_year_project
 
 > Note: The backend is deployed on a Hugging Face Space, so the backend API endpoint and backend repository URL are related and may look similar.
-
-## Contact
-For questions about this workflow, inspect the notebook cells directly and modify the configuration to match your environment.
